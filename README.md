@@ -1,24 +1,40 @@
-# Azure Site Recovery (ASR) Guide ☁️
+# Azure Site Recovery Guide ☁️
 
-A comprehensive guide on implementing **Disaster Recovery** strategies using **Azure Site Recovery**. This repository contains detailed documentation and resources to help you protect your business-critical applications.
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+## 📖 Overview
 
-## 📄 Contents
+This repository hosts a detailed guide and presentation on **Azure Site Recovery (ASR)**, Microsoft's Disaster Recovery as a Service (DRaaS) solution.
 
-- **Azure Site Recovery (1)_compressed.pdf**: A detailed step-by-step PDF walkthrough of the setup and configuration process.
+The included documentation (`Azure Site Recovery (1)_compressed.pdf`) covers:
+-   **Business Continuity and Disaster Recovery (BCDR)** strategies.
+-   How ASR orchestrates replication, failover, and recovery of workloads.
+-   Architecture and deployment scenarios.
 
-## ✨ Key Concepts Covered
+## 📂 Contents
 
-- **Disaster Recovery (DR)**: Ensuring business continuity during outages.
-- **Replication**: Real-time replication of workloads to Azure.
-- **Failover & Failback**: Testing and executing recovery plans.
+-   **`Azure Site Recovery (1)_compressed.pdf`**: The core presentation/document.
 
 ## 🚀 Getting Started
 
-1.  **Download the PDF**: Access the full guide in the repository's file list.
-2.  **Follow the Steps**: Implement the instructions in your Azure Portal.
+To view the guide:
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/officialsimranagarwal/Azure-Site-Recovery.git
+    ```
+2.  Open the PDF file in your preferred PDF viewer.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to propose changes to this documentation.
+
+## 👤 Author
+
+**Simran Agarwal**
+-   [Profile](https://github.com/officialsimranagarwal)
+-   [LinkedIn](https://linkedin.com/in/simran-agarwal-54751b191)
+
+---
+*Generated with ❤️ by Simran Agarwal*
